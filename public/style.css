@@ -1,0 +1,324 @@
+body{
+  
+}
+
+ 
+ 
+ .top-bar
+ {
+     background-color: green;
+     height: 30px;
+    
+ }
+ .second-container
+ {
+    
+     width: 100%;
+     
+    
+   
+     
+ }
+ .logo
+ {
+     height: 100px;
+ }
+ 
+ .nav-items
+ {
+    
+ 
+font-weight: bold;
+background-color: green;
+padding: 10px;
+margin-left: 25px;
+     
+ }
+ #compamy-name
+ {
+     padding-left: 20px;
+     font-family: cursive;
+     color: lime;
+    
+     
+
+ 
+    
+ 
+    
+    
+     
+ }
+ 
+
+ 
+
+  .about-us-text 
+ {
+     text-justify: inter-word;
+     color: green;
+     font-size: 20px;
+    box-shadow: 10px 10px 10px green;
+    background-color: honeydew;
+    padding: 10px;
+     
+ }
+
+
+ 
+ .intro
+ {
+    margin-left: 20px;
+     width: 400px;
+     height: 450px;
+     background-color: ghostwhite;
+     box-shadow: 3px 3px 10px gray;
+ }
+ 
+ .main-pics img
+ {
+   
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+   
+     
+ }
+ 
+ .new1
+ {
+     border: 2px solid black;
+     
+    
+    
+ }
+ .move
+ {
+   
+    text-align: center;
+    
+    
+   
+ }
+ .Services-intro
+ {
+     text-align: center;
+     font-size: 30px;
+     box-shadow:3px 3px 10px blue;
+ }
+ .box {
+    
+     
+     background-color:ghostwhite;
+     box-shadow:3px 3px 10px blue;
+     padding: 10px;
+    
+
+ }
+ .Services-Pics
+ {
+     width: 300px;
+     height: 190px;
+ }
+ .hight-main
+ {
+     height: 300px;
+ }
+.first
+{
+    margin-left: 30px;
+    padding: 20px;
+}
+.outdoor
+{
+    margin-left: 20px;
+}
+.Services
+{
+width: 300px;
+}
+
+#plant
+{
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 20px green ;
+    margin: 20px;
+}
+
+.card1,.card2,.card3 
+{
+    display: flex;
+    width: 350px;
+    height: 160px;
+    box-shadow: 2px 5px 6px green ;
+    background-color: gainsboro;
+    justify-items: center;
+    margin-top: 10px;
+
+  
+}
+.main-card
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-items: center;
+flex-wrap: wrap;
+}
+.center
+{
+   
+    margin-top: 50px;
+    
+    color: green;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+@media screen and (max-width:600px)
+{
+    .card1,.card2,.card3
+
+    {
+    width: 100%;
+    }
+}
+
+
+
+.card-img-top
+{
+    height: 300px;
+}
+
+.aboutAs
+{
+   font-family: cursive;
+   text-decoration: underline;
+   color: green;
+   text-shadow: 3px 4px 20px green;
+   text-align: center;
+   font-size: 50px;
+}
+#img:hover
+{
+    transition: linear all 0.3s;
+    transform: scale(1.1,1.1);
+}
+form
+{
+    width: 50%;
+    padding: 20px;
+    margin: auto;
+   
+  
+}
+input
+{
+    padding: 10px;
+    margin: 5px;
+    
+}
+@media screen and (max-width:600px)
+{
+    form
+
+    {
+    width: 100%;
+    
+    }
+}
+.contactus
+{
+    background-color: green;
+    box-shadow:  10px 10px 10px gray;
+}
+.info
+{
+   text-align: center;
+}
+.more-items
+{
+    background-color: honeydew;
+    box-shadow:  10px 10px 10px gray;
+}
+.pic1,.pic2,.pic3
+{
+    width: 200px;
+    height: 150px;
+}
+.card-group{
+    background-color: #9bc400;
+}
+.card-title
+{
+    font-size: 30px;
+    font-family: cursive;
+}
+.main-items
+{
+    box-shadow:  10px 10px 10px gray;
+}
+.vl
+{
+    border-left: 6px solid green;
+    height: 1350px;
+}
+.bgimg
+{
+    background-image: url(White\ Plant\ Moringa\ Earth\ Day\ Poster.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 550px;
+
+}
+.hearderset
+{
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+.active-pink-2 input.form-control[type=text]:focus:not([readyonly])
+{
+    border-bottom: 1px solid green;
+    box-shadow:  1px 3px 5px gray;
+}
+.card4,.card5,.card6
+{
+    display: flex;
+    width: 500px;
+    height: 160px;
+    box-shadow: 2px 5px 6px green ;
+    background-color: gainsboro;
+    justify-items: center;
+    margin-top: 40px;
+
+  
+}
+.main-card-2
+{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+justify-items: center;
+flex-wrap: wrap;
+margin-top: 20px;
+}
+.contact-us
+{
+    background-image: url("summer/mainplant1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:600px)
+{
+    .pos1
+
+    {
+    width: 100%;
+    
+    }
+}
+
